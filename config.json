@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN",
+    "CID":"CLIENT ID",
+    "CSECRET":"CLIENT SECRET",
+    "CLB":"http://localhost:3000/callback", 
+    "prefix": "+",
+    "mongooseConnectionString": "MONGODB URL"
+}
